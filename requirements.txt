@@ -4,3 +4,6 @@ imageio
 scipy
 torch
 pandoc
+pandas
+torchvision
+tqdm
